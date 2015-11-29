@@ -1,0 +1,100 @@
+.hero-unit {
+  padding: 40px;
+  margin-bottom: 20px;
+  /*font-size: 18px;*/
+  /*font-weight: 200;*/
+  line-height: 30px;
+  color: inherit;
+  background-color: #eeeeee;
+  -webkit-border-radius: 6px;
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+}
+.jumbotron{
+	background-image: url("../img/tb2.jpg");
+	/*background-attachment:fixed;*/
+	/*background: url('\https://whpnca.dm2302.livefilestore.com/y3pfJT76Rg41vQ6ZMnvoRP-vEILEpC3V9ide8g-B83_yiRBzGNpUcAKoTDGni9FJ4gOISs3ZWsjM2XQZDuix4MDjEp9LzmNp-0_VyhyWfES8t1R8xgBmREUkhMeJ9gy_ccQ6wcNO7GJVKwlimy-jHGj7lyCm4WknwH-Jj5szMQaQP4/jumbo.jpg');*/
+	min-height:400px;
+	height:600px;
+	width:100%;
+	text-align:center;
+}
+.jumbotron h1{
+	font-family:"Verdana", Georgia;
+	color:#0055FF;
+}
+
+.container .navbar{
+	background:#eeeeee;
+	color:#333333;
+}
+
+.nav li{
+	float:left;
+	font-size:1.5em;
+	color:#333333;
+	background:#eeeeee;
+}
+.nav li a{
+	background:#eeeeee;
+	color:#333333;
+}
+#Start{
+	height: auto !important;
+	overflow:hidden;
+	background-color: #7FF19A;
+	color:#000000;
+}
+.hzwei{
+	text-align:center;
+	font-size:2.2em;
+	font-family:"Verdana",Georgia;
+}
+.para , .codeacademylist{
+	font-size:1.5em;
+	font-family:"Times", Times New Roman;
+}
+
+#Start ul li{
+	font-family: "Times", Times New Roman;
+	font-size:1.5em;
+}
+#Studium{
+	height: auto !important;
+	overflow: hidden;
+	background-color:#7FE4F1;
+	color:#000000;
+}
+#Studium h2{
+	font-family:"Verdana", Georgia;
+	font-size: 2.2em;
+
+}
+#home #sc{
+	font-size:1.5em;
+}
+#Codeacademy{
+	background-color: #7FF19A;
+	color:#000000;
+}
+#Codeacademy a{
+	color:#000000;
+}
+
+#infolist{
+	font-size:0.6em;
+}
+#text{
+	height:30px;
+	font-family: "Comic Sanc MS", serif;
+}
+#wikititel a{
+	border:1px solid black;
+	text-decoration:none;
+}
+.panel-body{
+	background-color:#ffffff;
+}
+.panel-heading a, a:hover, a:link, a:visited:active, a:link:active{
+	color:#000000;
+}
