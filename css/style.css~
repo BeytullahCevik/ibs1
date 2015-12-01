@@ -95,7 +95,6 @@
 	font-size:1.5em;
 	font-family:"Verdana", Georgia;
 	color:#333333;
-	text-decoration:underline;
 }
 .panel-body{
 	background-color:#ffffff;
